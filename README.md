@@ -3,4 +3,4 @@
 ***pip install pyaudio -- *this is optional
 ***pip install keyboard
 
-To run the script simple navigate from ur terminal to the project dir, and run pyjton <nameOfTheScript> ( for example => python voiceCommand.py )
+To run the script simple navigate from ur terminal to the project dir, and run pyon <nameOfTheScript> ( for example => python voiceCommand.py )
